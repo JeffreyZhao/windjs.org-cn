@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://jscex.info/cn
-title: Jscex
+url: http://windjs.org/cn
+title: Wind.js
 subtitle: 回归 JavaScript 的异步流程控制
 author: 老赵
 simple_search: http://google.com/search
@@ -89,8 +89,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: jscex-cn
-disqus_show_comment_count: false
+disqus_short_name: windjs-cn
+disqus_show_comment_cout: false
 
 # Google Analytics
 google_analytics_tracking_id: "UA-32349745-1"
