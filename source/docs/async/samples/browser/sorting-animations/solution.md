@@ -1,9 +1,13 @@
 ---
 layout: page
-title: 排序动画（异步示例）
+title: 排序动画：解决方案
 ---
 
-{% render_partial docs/async/samples/sorting-animations/_index.md %}
+{% render_partial docs/async/samples/browser/sorting-animations/_index.md %}
+
+## 引入Wind.js异步模块
+
+{% render_partial docs/async/importing/_browser.md %}
 
 ## 解决方案
 

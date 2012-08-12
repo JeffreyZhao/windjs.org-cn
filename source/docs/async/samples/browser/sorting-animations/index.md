@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 排序动画（异步示例）
+title: 排序动画（异步模块示例）
 ---
 
-{% render_partial docs/async/samples/sorting-animations/_index.md %}
+{% render_partial docs/async/samples/browser/sorting-animations/_index.md %}
 
 ## 问题描述
 
@@ -39,7 +39,7 @@ title: 排序动画（异步示例）
 
 看上去很简单，不是吗？
 
-## 编程语言之殇
+## 异步编程之殇
 
 在其他一些语言里，我们往往可以使用`sleep`函数让当前线程停止一段时间，这样便起到了“等待”的效果。但是，在JavaScript中我们无法做到这一点，唯一的“延时”操作只能使用`setTimeout`来实现，但它却需要一个回调函数，我们无法这样让`compare`方法“暂停”一段时间：
 

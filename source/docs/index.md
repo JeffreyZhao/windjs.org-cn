@@ -20,6 +20,17 @@ Wind.js区别于其他流程控制类库的最大特色，便是纯粹使用Java
 
 这部分的两个示例将帮助您快速了解Wind.js的基本优势及使用方式，他们分别在浏览器和Node.js环境下执行，您也可以在Wind.js的GitHub中找到这两个示例的完整代码：
 
-* [排序算法动画](./docs/async/samples/sorting-animations/)：在浏览器中绘制动画，演示排序算法的运行过程。
+* [排序算法动画](./async/samples/browser/sorting-animations/)：在浏览器中绘制动画，演示排序算法的运行过程。
 * 博客列表：基于Node.js加载数据，并生成简单的博客列表页面。
 
+## 模块
+
+Wind.js以模块化形式分发，目前主要有以下几个模块：
+
+* 核心模块
+* 编译器模块
+* 构造器基础模块
+* [异步模块](./async/)
+* Promise模块
+
+关于模块引入方式，请阅读[加载模块](./importing/)相关内容。
