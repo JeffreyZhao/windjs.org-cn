@@ -9,7 +9,7 @@ title: 排序动画（异步模块示例）
 
 排序算法是解决现实问题过程中最常见的算法之一，其中`Array`类型自带的`sort`方法，则是我们在JavaScript编程中排序一个数组时最常用的手段。
 
-“[冒牌排序](http://zh.wikipedia.org/wiki/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F)”是各种排序算法中最简单的一个，思路清晰，易于实现，因此也是编程学习过程中必然会接触的一个算法。在JavaScript中实现一个冒泡排序只需寥寥数行代码：
+“[冒泡排序](http://zh.wikipedia.org/wiki/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F)”是各种排序算法中最简单的一个，思路清晰，易于实现，因此也是编程学习过程中必然会接触的一个算法。在JavaScript中实现一个冒泡排序只需寥寥数行代码：
 
     var compare = function (x, y) {
         return x - y; 
