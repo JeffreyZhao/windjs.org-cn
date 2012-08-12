@@ -35,6 +35,6 @@ Wind.js以模块化形式分发，目前主要有以下几个模块：
 
 关于模块引入方式，请阅读各模块的文档以及[加载模块](./importing/)相关内容。
 
-## 错误及反馈
+## 反馈
 
-假如您在使用过程中出现任何疑问或是意见建议，请加入[Wind.js讨论组](https://groups.google.com/d/forum/windjs)参与讨论，或直接发送邮件至[邮件列表](mailto:windjs@googlegroups.com)。而对于使用过程中发现的Bug，也可以[汇报至GitHub](https://github.com/JeffreyZhao/wind/issues)。
+假如您在Wind.js使用过程中产生任何疑问或是意见建议，请加入[Wind.js讨论组](https://groups.google.com/d/forum/windjs)参与讨论，或直接发送邮件至[邮件列表](mailto:windjs@googlegroups.com)。对于使用过程中发现的Bug，也可以[汇报至GitHub](https://github.com/JeffreyZhao/wind/issues)。
