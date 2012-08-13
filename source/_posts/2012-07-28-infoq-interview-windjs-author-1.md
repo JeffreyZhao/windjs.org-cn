@@ -116,7 +116,7 @@ Wind.js的确是个“轮子”，但绝对不是“重新发明”的轮子。�
         var content = $await(read(src, content));
         console.log("内容读取成功");
         $await(write(target, content));
-        console.log("内容读取成功");
+        console.log("内容写入成功");
     } catch (ex) {
         $await(submitError(ex));
         console.log("错误提交成功");
