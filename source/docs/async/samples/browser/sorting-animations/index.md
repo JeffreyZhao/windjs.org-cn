@@ -35,7 +35,7 @@ title: 排序动画（异步模块示例）
 
 其结果便是如此：
 
-<iframe src="http://repository.jscex.info/master/samples/async/browser/sorting-animations.html" frameborder="0" width="350" height="350"></iframe>
+<iframe src="http://repository.jscex.info/master/samples/async/browser/sorting-animations.html" frameborder="0" width="350" height="360"></iframe>
 
 看上去很简单，不是吗？
 
