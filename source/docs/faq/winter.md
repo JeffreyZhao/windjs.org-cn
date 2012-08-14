@@ -11,7 +11,7 @@ title: Wind.js FAQ
 假若要编写一个函数，向页面中插入10个div元素，写法如下：
 
     var insert = function () {
-        for(var i = 0; i < 10; i++) {
+        for (var i = 0; i < 10; i++) {
             var div = document.createElement("div");
             document.body.appendChild(div);
         }
@@ -82,6 +82,6 @@ title: Wind.js FAQ
 
 第一，很遗憾，对于Wind.js而言eval是必要的，而且没有任何已知办法将eval封装起来，因为Wind.js必须要使用者显式调用eval来保证当前的作用域可访问。
 
-第二，当使用AOT编译方式发布时，发布的代码中是没有eval的，eval这样的写法可以保证你的代码无需经过编译（或其他“预处理”方式）即可在任何JavaScript环境中调试。
+第二，在发布至生产环境之前，可以使用预编译消除代码中所有的eval。现在使用eval，可以保证你的代码无需经过编译（或其他“预处理”方式）即可在任何JavaScript环境中调试。
 
 第三，eval is evil实际上是个误区，任何语言特性都有其存在的意义和适用之处。Wind.js中的eval运行次数跟代码规模线性相关，这种程度的使用对于性能影响微乎其微。
