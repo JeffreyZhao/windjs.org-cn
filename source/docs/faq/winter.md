@@ -4,7 +4,7 @@ author: winter
 title: Wind.js FAQ
 ---
 
-## Wind.js是做什么的
+## Wind.js是做什么的？
 
 在使用JavaScript之时，一旦涉及http请求、等待时间、IO操作等场景，往往需要使用异步操作。而受JavaScript语言之限，同步写法和异步写法往往差距甚大。请看以下代码：
 
