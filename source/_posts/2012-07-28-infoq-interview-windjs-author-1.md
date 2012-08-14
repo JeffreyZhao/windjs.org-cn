@@ -296,12 +296,12 @@ Promise模型：
 * [JIT编译][jit]
 * [抽象泄露定律][leaky-abstractions]
 
-[windjs]: http://windjs.org/cn/  "Wind.js官方网站"
+[windjs]: {{root_url}}/  "Wind.js官方网站"
 [windjs-github]: https://github.com/JeffreyZhao/wind  "Wind.js源码"
-[windjs-docs]: http://windjs.org/cn/docs/ "Wind.js文档"
-[windjs-compiler]: http://windjs.org/cn/docs/compiler/ "Wind.js编译器模块"
-[windjs-async]: http://windjs.org/cn/docs/async/  "Wind.js 异步模块"
-[windjs-promise]: http://windjs.org/cn/docs/promise/ "Wind.js Promise模块"
+[windjs-docs]: {{root_url}}/docs/ "Wind.js文档"
+[windjs-compiler]: {{root_url}}/docs/compiler/ "Wind.js编译器模块"
+[windjs-async]: {{root_url}}/docs/async/  "Wind.js 异步模块"
+[windjs-promise]: {{root_url}}/docs/promise/ "Wind.js Promise模块"
 [jit]: http://en.wikipedia.org/wiki/Just-in-time_compilation "JIT编译"
 [promise]: http://wiki.commonjs.org/wiki/Promises/A "Promise/A模型"
 [node-promise]: http://github.com/kriszyp/node-promise "node-promise类库"
