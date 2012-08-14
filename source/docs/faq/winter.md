@@ -60,14 +60,18 @@ title: Wind.js FAQ
 
     var Wind = require("wind");
 
-如果你在使用浏览器环境，则可以引用wind.js的文件：
+如果你在使用浏览器环境，则可以引用wind-all脚本：
+
+    <script src="wind-all-x.y.z.js"></script>
+    
+或是仅仅引入异步模块所需要的脚本文件：
 
     <script src="wind-core-x.y.z.js"></script>
     <script src="wind-compiler-x.y.z.js"></script>
     <script src="wind-builderbase-x.y.z.js"></script>
     <script src="wind-async-x.y.z.js"></script>
 
-这里, x.y.z为版本号。
+这里x.y.z为版本号。
 
 ## Wind.js与其它异步类库相比有什么不同？
 
