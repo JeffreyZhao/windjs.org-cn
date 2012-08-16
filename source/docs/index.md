@@ -22,6 +22,7 @@ Wind.js区别于其他流程控制类库的最大特色，便是纯粹使用Java
 
 * [排序算法动画](./async/samples/browser/sorting-animations/)：在浏览器中绘制动画，演示排序算法的运行过程。
 * 博客列表：基于Node.js加载数据，并生成简单的博客列表页面。
+* IMDB阅览器：基于HTML 5开发的Windows 8应用程序。
 
 ## 模块
 
