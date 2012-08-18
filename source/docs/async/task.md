@@ -7,7 +7,7 @@ title: Wind.js异步模块：任务模型
 
 ## 任务模型
 
-`$await`指令的参数是`Wind.Async.Task`类型的对象，这个对象这个对象可以是一个异步方法的返回结果，或是由其他任何方式得到。在Wind.js异步模块眼中，一个异步任务便是指“**能在未来某个时刻返回的操作**”，它可以是一个`setTimeout`的绑定（如之前演示过的`sleep`方法），甚至是一个用户事件：
+`$await`指令的参数是`Wind.Async.Task`类型的对象，这个对象可以是一个异步方法的返回结果，或是由其他任何方式得到。在Wind.js异步模块眼中，一个异步任务便是指“**能在未来某个时刻返回的操作**”，它可以是一个`setTimeout`的绑定（如之前演示过的`sleep`方法），甚至是一个用户事件：
 
     var btnNext = document.getElementById("btnNext");
     var ev = $await(Wind.Async.onEvent(btnNext, "click"));
