@@ -28,11 +28,11 @@ Wind.js区别于其他流程控制类库的最大特色，便是纯粹使用Java
 
 Wind.js以模块化形式分发，目前主要有以下几个模块：
 
-* [核心模块](./core/)
-* [编译器模块](./compiler/)
-* [构造器基础模块](./builderbase)
+* [核心模块](./core/)（TBD）
+* [编译器模块](./compiler/)（TBD）
+* [构造器基础模块](./builderbase)（TBD）
 * [异步模块](./async/)
-* [Promise模块](./promise/)
+* [Promise模块](./promise/)（TBD）
 
 关于模块引入方式，请阅读各模块的文档以及[加载模块](./importing/)相关内容。
 
