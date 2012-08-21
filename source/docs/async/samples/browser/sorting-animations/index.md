@@ -21,7 +21,7 @@ title: 排序动画（异步模块示例）
 
     var bubbleSort = function (array) {
         for (var i = 0; i < array.length; i++) {
-            for (var j = 0; j < array.length - j - 1; j++) {
+            for (var j = 0; j < array.length - i - 1; j++) {
                 if (compare(array[j], array[j + 1]) > 0) {
                     swap(array, j, j + 1);
                 }
