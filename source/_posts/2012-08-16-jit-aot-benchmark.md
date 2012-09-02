@@ -2,7 +2,7 @@
 layout: post
 title: "代码预编译前后性能对比"
 date: 2012-08-16 22:28
-categories: 性能 预编译
+categories: eval 性能 预编译
 ---
 
 Wind.js在推广过程中遇到的最大的问题之一便是众人对`eval`的反对，许多人见到Wind.js代码中需要显示调用`eval`便心生惧意，敬而远之。其中对于`eval`最大的质疑便是其性能问题，尽管Wind.js提供了[预编译器]({{root_url}}/docs/aot/)，但还是有个别专家强烈反对Wind.js中的`eval`使用方式，认为它会严重降低程序性能，以至于在“开发模式”中都不该出现`eval`。
