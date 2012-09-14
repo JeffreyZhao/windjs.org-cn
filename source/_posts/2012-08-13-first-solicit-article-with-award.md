@@ -45,3 +45,4 @@ categories: 活动
 * [@金氧](http://weibo.com/lambsand)：[消除你对Wind.js的疑虑](http://jinyang.mynah.org/article/dispel-your-windjs%27s-doubts.html)
 * [@黄珏珅Tony](http://weibo.com/greatony)：[Wind.js: An elegant approach to asynchronies JavaScript](http://www.greatony.com/?p=195)
 * [@sunleepy](http://weibo.com/sunleepy)：[Wind.js在移动跨平台框架PhoneGap中的异步体验](http://www.cnblogs.com/liping13599168/archive/2012/09/02/windjs-phonegap.html)
+* [@貘吃馍香](http://weibo.com/itapir)：[在BerserkJS中无缝使用Wind.js收拢异步执行流程](http://weibotech.sinaapp.com/archives/1819)
