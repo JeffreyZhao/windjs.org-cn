@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wind.js有奖征文第一期"
+title: "Wind.js有奖征文第一期（已截止）"
 date: 2012-08-13 22:41
 categories: 活动
 ---
@@ -36,7 +36,7 @@ categories: 活动
 
 * 一等奖1名，奖品为价值50元的亚马逊代金券3张。
 * 二等讲2名，奖品为价值50元的亚马逊代金券2张。
-* 三等奖5名，奖品为价值50元的亚马逊代金券1张。
+* 三等奖3名，奖品为价值50元的亚马逊代金券1张。
 
 本次活动奖品由“[Wind.js基金]({{root_url}}/fund/)”赞助。奖品亦可换成价格相近的礼品，获奖者可自由决定。
 
@@ -46,3 +46,5 @@ categories: 活动
 * [@黄珏珅Tony](http://weibo.com/greatony)：[Wind.js: An elegant approach to asynchronies JavaScript](http://www.greatony.com/?p=195)
 * [@sunleepy](http://weibo.com/sunleepy)：[Wind.js在移动跨平台框架PhoneGap中的异步体验](http://www.cnblogs.com/liping13599168/archive/2012/09/02/windjs-phonegap.html)
 * [@貘吃馍香](http://weibo.com/itapir)：[在BerserkJS中无缝使用Wind.js收拢异步执行流程](http://weibotech.sinaapp.com/archives/1819)
+* [@刘骥-JimLiu](http://weibo.com/jimnox)：[JavaScript中的异步梳理（3）——使用Wind.js](http://jimliu.net/?p=191)
+* [@老羊肖恩](http://weibo.com/ziyanxu)：[Node.js Adventure - When Node Flying in Wind](http://blogs.shaunxu.me/archive/2012/10/16/node.js-adventure---when-node-flying-in-wind.aspx)
